@@ -1,0 +1,4 @@
+name: ExampleFFPlugin
+version: '1.0-SNAPSHOT'
+main: io.github.jw.spigot.ff.extension.exampleffplugin.PluginMain
+api-version: '1.19'
